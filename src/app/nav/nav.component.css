@@ -1,0 +1,23 @@
+.panel{
+
+  border-radius: 0px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  overflow: scroll;
+  background-color: #f5f5f5;
+}
+span{
+  margin-right: 5px;
+}
+
+.panel-group{
+  position: fixed;
+  top: 0px;
+  z-index: 1000;
+}
+
+td:first-child{
+  border : none !important;
+}
